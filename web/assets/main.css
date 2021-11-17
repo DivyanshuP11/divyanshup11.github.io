@@ -385,7 +385,7 @@ nav{
 #docstart{
     display: flex;
     height: 90vh;
-    /* background-color: rgb(8, 0, 17); */
+    background-color: rgb(8, 0, 17);
     /* background-color:rgb(88, 87, 87); */
 }
 .about{
